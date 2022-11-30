@@ -65,7 +65,7 @@ a{
     margin:0 auto;
     position:relative;
     top: 50%;
-    transform: translateY(-180%);
+    transform: translateY(-120%);
     padding: 20px 40px;
    background-color:white;
    border: 1px solid rgb(75, 74, 74);
